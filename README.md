@@ -1,4 +1,4 @@
-# 🚀💼 The Career Mission 2025
+# 🚀💼 The Career Mission 2026
 
 ### Welcome to Assignment 1 of Sohoz 😎, Sorol 😁 & Simple 🤩
 
@@ -8,26 +8,6 @@ Your mission — should you choose to accept — is to build an **attractive & s
 > 💼 **"The Career Mission"**
 
 This is your chance to **showcase your passion 💖** and tell the world how badly you want to become a **crazy level developer 🧑‍💻👩‍💻**.  
-
----
-
-## 🧠 Marking System — Total: 60 Marks
-
-Our marking system is divided into two exciting categories:
-
-### ✅ Main Marks — 50  
-Get these by fulfilling the basic yet essential requirements to build your landing page like a pro 😎
-
-### 🔥 Challenge Marks — 10  
-For the brave souls! 😤  
-Take your project to the next level 🚀 by solving real-time challenges and learning like a ninja 🥷  
-
----
-
-## 🎯 Your Mission  
-🎥 **Watch the video** provided in the Bootcamp  
-📝 **Take proper notes**  
-🎯 And **complete the landing page** exactly as shown!
 
 ---
 
@@ -41,14 +21,6 @@ To help you craft the perfect UI, we’ve provided:
 
 💾 **Download the resources** & get started on your career-launching mission! 🚀
 
----
-
-## ⏰ Deadline  
-
-📅 **Assignment-01 Deadline:**  
-🕛 **May 27,  11:59 PM** (Don't be late 🚩)
-
----
 
 ## 🚩 What to Submit  
 
@@ -56,7 +28,6 @@ To help you craft the perfect UI, we’ve provided:
 - Your Live Link 
 - Submit the Form on Bootcamp Website with All the fields  
 
----
 
 ## 🖼️ Sample Preview  
 
